@@ -1,0 +1,6 @@
+Date: 27 Sept 2016
+http://unix.stackexchange.com/questions/23833/how-can-i-tell-what-version-of-linux-im-using
+
+1) Find what is the Linux version you are working?
+
+cat /etc/*release*
